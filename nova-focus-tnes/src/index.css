@@ -1,0 +1,6 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { color-scheme: light; }
+kbd { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.85em; }
